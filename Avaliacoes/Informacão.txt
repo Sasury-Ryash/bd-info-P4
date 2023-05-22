@@ -1,1 +1,4 @@
-Avaliações - Ana Carolina
+//comandos para push do VSCode virtual para o git hub:
+//git add .
+//git commit -m "Mensagem que vc quiser"
+//git push
