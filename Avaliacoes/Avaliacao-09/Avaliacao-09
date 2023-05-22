@@ -1,1 +1,7 @@
-//create table
+create table TB_Aluno (
+    NOME TEXT NOT NULL
+);
+
+insert into TB_Aluno(NOME) values ('Ana Carolina')
+
+select * from TB_Aluno
